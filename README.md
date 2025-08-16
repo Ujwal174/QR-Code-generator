@@ -4,7 +4,7 @@ A modern, elegant QR code generator built with vanilla JavaScript that creates h
 
 ## 🌟 Link for the website
 
-🔗 **[Try it live here](YOUR_DEPLOYMENT_URL_HERE)** *(Update this link after deployment)*
+🔗 **[Try it live here](https://ujwal174.github.io/QR-Code-generator/)** 
 
 ![QR Code Generator Preview](preview.png)
 
